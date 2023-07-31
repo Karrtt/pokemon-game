@@ -1,6 +1,6 @@
-#PokeMatch
+# PokeMatch
 
-#Pokemon game using React and PokeAPI
+# Pokemon game using React and PokeAPI
 
 Project Description:
 PokeMatch is an interactive React web application that offers a set of two mini-games designed for Pokemon lovers. By leveraging the PokeAPI, this project provides a delightful experience, inviting users to test their knowledge and memory.
